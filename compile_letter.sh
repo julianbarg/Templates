@@ -41,7 +41,7 @@ if [ -z "${LETTER:-}" ] || [ ! -f "${LETTER}" ]; then
   exit 1
 fi
 
-LETTER_NAME=$( basename ${LETTER}.md )
+LETTER_NAME=$( basename ${LETTER} .md )
 TARGET="${TARGET_DIR}/${LETTER_NAME}_${INITIALS}_${DATE}.docx"
 
 # Check if language is German
