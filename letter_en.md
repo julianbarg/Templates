@@ -1,5 +1,5 @@
 
-:::{custom-style=Sender}
+:::{custom-style=Address}
 
 Julian Barg
 
@@ -9,7 +9,18 @@ London ON N6B 1J4
 
 Canada
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 :::
+
+<!-- Recipient -->
+
+
+
+
 
 To whom it may concern
 
